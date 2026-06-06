@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+jokes.db
+bot.log
+.env
